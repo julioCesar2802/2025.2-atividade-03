@@ -1,19 +1,3 @@
-# Atividade: Criando Tabelas em HTML5 com Estilização
-
-## Objetivo
-Aprender a criar e estilizar tabelas em HTML5 utilizando CSS para apresentar informações de forma organizada e visualmente atraente.
-
-## Descrição da Atividade
-Você deve criar uma tabela em HTML5 que apresente informações sobre disciplinas de um curso. A tabela deve conter três colunas:
-- **Disciplina**: Nome da disciplina
-- **Tecnologias**: Ferramentas e tecnologias utilizadas
-- **Conceitos**: Conceitos principais abordados
-
-## Exemplo: Disciplina de Web Design
-
-Abaixo está um exemplo completo de como criar e estilizar a tabela para a disciplina de Web Design.
-
-### Código HTML `tabelas.html`
 
 ```html
 <!DOCTYPE html>
@@ -60,9 +44,9 @@ Abaixo está um exemplo completo de como criar e estilizar a tabela para a disci
 </html>
 ```
 
-### Código CSS (tabelas.css)
 
-```css
+
+
 * {
     margin: 0;
     padding: 0;
