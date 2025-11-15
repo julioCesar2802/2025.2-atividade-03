@@ -40,8 +40,8 @@ body {
 
 /* Header do Card */
 .card-header {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    color: white;
+    background: linear-gradient(135deg, #c0b283 0%, #e9da08 100%);
+    color: rgb(0, 0, 0);
     padding: 20px;
     text-align: center;
 }
@@ -63,7 +63,7 @@ body {
 }
 
 .card-content h3 {
-    color: #667eea;
+    color: #000000;
     margin-top: 15px;
     margin-bottom: 10px;
     font-size: 1.3em;
@@ -90,7 +90,7 @@ body {
 .tecnologias li {
     display: inline-block;
     background-color: #667eea;
-    color: white;
+    color: rgb(0, 0, 0);
     padding: 6px 15px;
     margin: 5px;
     border-radius: 20px;
@@ -117,7 +117,7 @@ body {
 }
 
 .card-footer strong {
-    color: #667eea;
+    color: #000000;
 }
 
 /* Responsividade */
